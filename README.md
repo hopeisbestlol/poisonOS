@@ -32,4 +32,3 @@ and tons of love :)
 ###### contactss
 ill add this later
 
-Add full README
