@@ -32,3 +32,7 @@ and tons of love :)
 ###### contactss
 ill add this later
 
+
+####### © 2025 [hopeisbestlol]  
+This project is free to use, modify, and distribute by anyone for any purpose.  
+See the [LICENSE](LICENSE) file for details
