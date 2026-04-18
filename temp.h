@@ -1,0 +1,15 @@
+#ifndef TEMP_H
+#define TEMP_H
+
+enum vga_color {
+	VGA_COLOR_BLACK = 0x0,
+	VGA_COLOR_BLUE = 0x1,
+	VGA_COLOR_GREEN = 0x2,
+	VGA_COLOR_CYAN = 0x3,
+	VGA_COLOR_RED = 0x4,
+	VGA_COLOR_MAGENTA = 0x5,
+	VGA_COLOR_BROWN = 0x6,
+	VGA_COLOR_LIGHT_GRAY = 0X7,
+	
+};
+#endif
